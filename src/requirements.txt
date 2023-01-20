@@ -1,0 +1,7 @@
+Flask==2.0.3
+redis-om==0.0.20
+redis==4.1.4
+urllib3==1.26.8
+requests==2.27.1
+PyMySQL~=1.0.2
+Flask-PyMongo==2.3.0
